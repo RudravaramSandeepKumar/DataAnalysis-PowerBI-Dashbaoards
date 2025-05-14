@@ -32,7 +32,8 @@ The Mart Store wants to create the Sales reports with the interactive visualizat
 
   ## Dashboard
 
-  ![Power BI Mart Sales Dashboard](https://github.com/user-attachments/assets/e9345752-1e31-4677-a2fa-a567f5c2ee30)
+  ![Power BI Mart Sales Dashboard](https://github.com/user-attachments/assets/2e770f32-23d1-4481-a403-55caa6214841)
+
 
   
   
