@@ -31,6 +31,7 @@ The Mart Store wants to create the Sales reports with the interactive visualizat
   - Merge all the visualizations into one Dashboard and apply slicers to make dynamic.
 
   ## Dashboard
-    
+    ![Power BI Mart Sales Dashboard](https://github.com/user-attachments/assets/e9345752-1e31-4677-a2fa-a567f5c2ee30)
+
   
   
