@@ -34,6 +34,20 @@ The Mart Store wants to create the Sales reports with the interactive visualizat
 
   ![Power BI Mart Sales Dashboard](https://github.com/user-attachments/assets/2e770f32-23d1-4481-a403-55caa6214841)
 
+## Project insights based on the dashboard:
+ * Strong Overall Performance: Total sales are $2.348 million with a profit of $283,000 for the selected period.
+ * Regional Variations: Sales performance differs significantly across regions (Central, North, South), evident in the bubble map and regional tables.
+ * Sub-Category Focus: Certain product sub-categories drive the majority of sales and profit (examine the bar chart for specifics).
+ * Time-Based Trends: Sales patterns vary over the quarters, indicating potential seasonality or growth in specific regions (see the line chart).
+ * Shipping Mode Preferences: The preferred shipping methods differ by region (analyze the treemap for details).
+
+## The Final Conclusion:
+
+  Overall, the shopping mart demonstrates healthy sales and profitability, though regional and product category performance varies significantly. Understanding these granular differences, alongside 
+  temporal trends and shipping preferences, is crucial for targeted strategies to optimize growth and profitability. Further investigation into underperforming regions or product categories could 
+  reveal opportunities for improvement.
+
+
 
   
   
