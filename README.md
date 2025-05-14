@@ -20,5 +20,14 @@ The Mart Store wants to create the Sales reports with the interactive visualizat
 - What is the dominant shipping method in the highest sales region(central)?
 - which region is currently driving the most revenue?
 - The lineChart of sales over region shows the sales trajectory across different quarters?
+
+  ## Process
+  - Verify data for any missing values and anomalies, and sort out the same.
+  - Make sure data is consistent and clean with respect to the data type, format and values used.
+  - Created Matrix tables and datatables,linecharts, barcharts to the questions asked.
+  - Merge all the visualizations into one Dashboard and apply slicers to make dynamic.
+
+  ## Dashboard Interaction
+  <a href="https://github.com/RudravaramSandeepKumar/DataAnalysis-PowerBI-Dashbaoards/blob/main/Power%20BI%20Mart%20Sales%20Dashboard.png">View Dashboard<a/>
   
   
