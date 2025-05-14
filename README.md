@@ -1,2 +1,11 @@
 # DataAnalysis-PowerBI-Dashbaoards
 This repository contains a comprehensive PowerBI visualization dashboard showcasing key metrics, trends, and insights for [Mart sales Data]. The dashboard is designed to provide actionable information through interactive visualizations, charts, and graphs.
+
+# Mart-Store-Data-Analysis(Interactive Dashboard Creation Using Microsoft PowerBI)
+
+## Project Objective
+
+The Mart Store wants to create the Sales reports with the interactive visualizations and can understand the customers orders and sales profit with effective visualizations to see the trends over sales and profits. 
+
+## Dataset Used
+- <a href="https://github.com/RudravaramSandeepKumar/DataAnalysis-PowerBI-Dashbaoards/blob/main/Mart%20Sales%20Data.xlsxhttps://github.com/RudravaramSandeepKumar/DataAnalysis-PowerBI-Dashbaoards/blob/main/Mart%20Sales%20Data.xlsx">Dataset</a>
