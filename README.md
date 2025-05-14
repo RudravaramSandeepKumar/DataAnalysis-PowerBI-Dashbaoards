@@ -9,3 +9,16 @@ The Mart Store wants to create the Sales reports with the interactive visualizat
 
 ## Dataset Used
 - <a href="https://github.com/RudravaramSandeepKumar/DataAnalysis-PowerBI-Dashbaoards/blob/main/Mart%20Sales%20Data.xlsx">Dataset</a>
+
+## Questions (KPIs)
+- What is the maximum sales of Mart?
+- Sales and profit by region and segement
+- Comaparing sales and profit with line charts
+- How much Sales and profit gained by sub-category?
+- what is the sales trends over the recent quarters?
+- which region is most profitable?
+- What is the dominant shipping method in the highest sales region(central)?
+- which region is currently driving the most revenue?
+- The lineChart of sales over region shows the sales trajectory across different quarters?
+  
+  
